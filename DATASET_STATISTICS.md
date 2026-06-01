@@ -144,19 +144,6 @@ The dataset statistics match the experimental setup described in the paper:
 - **Metrics**: Structural field completeness, keypoint coverage, hallucination rate
 - **Evaluation method**: Automated metrics + LLM-as-a-Judge
 
-## Citation
-
-If you use this dataset, please cite:
-
-```bibtex
-@inproceedings{hu2026okcsft,
-  title={Operation Knowledge Chain Supervised Fine-Tuning for Abnormal Operation Handling Instructions in Air Separation Units},
-  author={Hu, Zhangquan and Zhao, Jun and Xu, Zuhua},
-  booktitle={Proceedings of the Chinese Automation Congress (CAC)},
-  year={2026}
-}
-```
-
 ## License
 
 This dataset is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

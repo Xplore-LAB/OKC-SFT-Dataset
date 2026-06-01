@@ -165,19 +165,6 @@ cp data/okc_sft_train.jsonl /path/to/LLaMA-Factory/data/
 }
 ```
 
-### Citation
-
-If you use this dataset, please cite:
-
-```bibtex
-@inproceedings{hu2026okcsft,
-  title={Operation Knowledge Chain Supervised Fine-Tuning for Abnormal Operation Handling Instructions in Air Separation Units},
-  author={Hu, Zhangquan and Zhao, Jun and Xu, Zuhua},
-  booktitle={Proceedings of the Chinese Automation Congress (CAC)},
-  year={2026}
-}
-```
-
 ### License
 
 This dataset is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
@@ -296,19 +283,6 @@ cp data/okc_sft_train.jsonl /path/to/LLaMA-Factory/data/
       "response": "output"
     }
   }
-}
-```
-
-### 引用
-
-如果使用本数据集，请引用：
-
-```bibtex
-@inproceedings{hu2026okcsft,
-  title={面向空分装置异常操作处置指令的操作知识链监督微调},
-  author={胡章权 and 赵军 and 徐祖华},
-  booktitle={中国自动化大会 (CAC)},
-  year={2026}
 }
 ```
 
