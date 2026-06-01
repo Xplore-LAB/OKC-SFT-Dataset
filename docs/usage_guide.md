@@ -468,7 +468,4 @@ def cross_validate_model(samples, n_folds=5):
 
 ## Contact
 
-For questions or issues, please contact:
-- Zhangquan Hu: zju_hzq@163.com
-- Jun Zhao: jzhao@zju.edu.cn
-- Zuhua Xu: zhxu@zju.edu.cn
+For questions or issues, please open an issue on GitHub.

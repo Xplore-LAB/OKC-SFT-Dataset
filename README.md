@@ -158,9 +158,7 @@ This dataset is licensed under the [Creative Commons Attribution 4.0 Internation
 
 ### Contact
 
-- Zhangquan Hu: zju_hzq@163.com
-- Jun Zhao: jzhao@zju.edu.cn
-- Zuhua Xu: zhxu@zju.edu.cn
+For questions or issues, please open an issue on GitHub.
 
 ---
 
@@ -268,6 +266,4 @@ cp data/okc_sft_train.jsonl /path/to/LLaMA-Factory/data/
 
 ### 联系方式
 
-- 胡章权：zju_hzq@163.com
-- 赵军：jzhao@zju.edu.cn
-- 徐祖华：zhxu@zju.edu.cn
+如有问题，请在 GitHub 上提交 Issue。

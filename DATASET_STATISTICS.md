@@ -163,7 +163,4 @@ This dataset is licensed under [CC BY 4.0](https://creativecommons.org/licenses/
 
 ## Contact
 
-For questions or issues:
-- Zhangquan Hu: zju_hzq@163.com
-- Jun Zhao: jzhao@zju.edu.cn
-- Zuhua Xu: zhxu@zju.edu.cn
+For questions or issues, please open an issue on GitHub.
